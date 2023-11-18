@@ -18,8 +18,8 @@ const anoCarro = 2010
 //corcarro: "cor"
 //anocarro: anocarro
 
-console ("carro"+ carro + "fabricante" + fabricante:)"  
-fabricantecarro + ", modelo do carro:" + modelocarro +", cor do carro:" + corcarro + ", ano:" + anocarro);
+console ("carro"+ Carro + "fabricante" + fabricante)  
+fabricantecarro + ", modelo do carro:" + modelocarro +", cor do carro:" + corcarro + ", ano:" + anoCarro;
 console.log ("carro");
 console.log ("fabricante do carro");
 console.log ("modelocarro");
