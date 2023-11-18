@@ -28,3 +28,12 @@ console.log ("anoCarro");
 
 // Segunda forma:Interpolação
 console.log  (`Meu carro ${Carro}, fabricante  do carro: ${fabricanteCarro},  modelo carro: ${modelocarro}, COR DO CARRO: ${corcarro}, ano do carro: ${anoCarro}`);
+
+
+
+// Atividade 01
+
+let pi = 3.14
+let raio = 16
+let total = pi * raio * raio 
+console.log(`o valor é: ${total}`);
